@@ -273,7 +273,7 @@ class LogsScreen extends ConsumerWidget {
       ),
     );
   }
-
+//hi
   String _tierFor(double distance) {
     if (distance >= 10) return 'S';
     if (distance >= 7.5) return 'A';
